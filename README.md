@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 i'm sanju
 I'm currently learning 
 
 

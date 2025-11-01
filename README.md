@@ -1,4 +1,4 @@
-## i'm sanjeev
+## i'm Sanjeev
 
 # 💫 About Me:
 Currently in the 5th semester of a Bachelor of Computer Applications (BCA), I have hands-on<br> experience in Data Structures, C, Python, Java, and Web Development. I am seeking an entry-level<br> role that allows me to continuously learn, grow, and contribute meaningfully. With strong<br> dedication, a solid foundation in programming, and a passion for problem-solving, I aim to deliver<br> high-quality work aligned with organizational goals.
